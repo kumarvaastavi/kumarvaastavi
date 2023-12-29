@@ -1,5 +1,5 @@
 ### Hi there
-###🔭 I’m currently working on
+🔭 I’m currently working on
 <svg width="98" height="32" viewBox="0 0 98 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M93 0H31V32H93C95.7614 32 98 29.7614 98 27V5C98 2.23858 95.7614 0 93 0Z" fill="#0F1418"/>
 <path d="M5 0.5H30.5V31.5H5C2.51472 31.5 0.5 29.4853 0.5 27V5C0.5 2.51472 2.51472 0.5 5 0.5Z" fill="white" stroke="#151A1E"/>
